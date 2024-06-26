@@ -1,0 +1,10 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\bin\Debug\managerForm.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\bin\Debug\managerForm.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\bin\Debug\managerForm.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\challenge3\managerForm\obj\Debug\managerForm.pdb

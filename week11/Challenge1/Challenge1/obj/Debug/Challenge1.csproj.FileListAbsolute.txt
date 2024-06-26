@@ -1,0 +1,8 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\bin\Debug\Challenge1.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\bin\Debug\Challenge1.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.n.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week11\Challenge1\Challenge1\obj\Debug\Challenge1.pdb

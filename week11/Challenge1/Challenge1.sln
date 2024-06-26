@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Challenge1", "Challenge1\Challenge1.csproj", "{A540FCE8-25D7-4FAA-ADBD-2F1BED0F57B6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "comboBox", "comboBox\comboBox.csproj", "{2E6599FE-1E5A-40C8-8410-BEE134187731}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A540FCE8-25D7-4FAA-ADBD-2F1BED0F57B6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A540FCE8-25D7-4FAA-ADBD-2F1BED0F57B6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A540FCE8-25D7-4FAA-ADBD-2F1BED0F57B6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A540FCE8-25D7-4FAA-ADBD-2F1BED0F57B6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6599FE-1E5A-40C8-8410-BEE134187731}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6599FE-1E5A-40C8-8410-BEE134187731}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6599FE-1E5A-40C8-8410-BEE134187731}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6599FE-1E5A-40C8-8410-BEE134187731}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {44E8EA09-7916-48DE-8EA7-AD1B2165872A}
+	EndGlobalSection
+EndGlobal
