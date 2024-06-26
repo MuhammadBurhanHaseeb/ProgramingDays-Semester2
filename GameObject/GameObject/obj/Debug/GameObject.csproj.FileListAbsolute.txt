@@ -1,0 +1,7 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\obj\Debug\GameObject.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\obj\Debug\GameObject.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\bin\Debug\GameObject.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\bin\Debug\GameObject.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\bin\Debug\GameObject.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\obj\Debug\GameObject.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week6\GameObject\GameObject\obj\Debug\GameObject.pdb

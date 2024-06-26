@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="GameObject.BL.BoundaryBL">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAIAEAA=</HashCode>
+      <FileName>BL\BoundaryBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.BL.GameObjectBL">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAEAAAAAABAIACABAEAAQAAIAAAAABIAAAAAAAABAA=</HashCode>
+      <FileName>BL\GameObjectBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.BL.PointBL">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgAAAAAAA=</HashCode>
+      <FileName>BL\PointBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.DL.BoundaryDL">
+    <Position X="0.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\BoundaryDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.DL.GameObjectDL">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAEAgAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\GameObjectDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.DL.PointDL">
+    <Position X="3.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DL\PointDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.Menu.MenuUI">
+    <Position X="2" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.UI.BoundaryUI">
+    <Position X="2" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\BoundaryUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.UI.GameObjectUI">
+    <Position X="3.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\GameObjectUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="GameObject.UI.PointUI">
+    <Position X="3.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\PointUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
