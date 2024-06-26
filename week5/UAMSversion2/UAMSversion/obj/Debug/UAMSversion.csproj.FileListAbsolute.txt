@@ -1,0 +1,7 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\bin\Debug\UAMSversion.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\bin\Debug\UAMSversion.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\bin\Debug\UAMSversion.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\obj\Debug\UAMSversion.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\obj\Debug\UAMSversion.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\obj\Debug\UAMSversion.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\UAMSversion\UAMSversion\obj\Debug\UAMSversion.pdb

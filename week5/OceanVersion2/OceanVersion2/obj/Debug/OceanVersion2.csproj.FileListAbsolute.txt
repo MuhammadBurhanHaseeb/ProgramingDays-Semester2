@@ -1,0 +1,7 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\bin\Debug\OceanVersion2.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\bin\Debug\OceanVersion2.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\bin\Debug\OceanVersion2.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\obj\Debug\OceanVersion2.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\obj\Debug\OceanVersion2.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\obj\Debug\OceanVersion2.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week5\OceanVersion2\OceanVersion2\obj\Debug\OceanVersion2.pdb
