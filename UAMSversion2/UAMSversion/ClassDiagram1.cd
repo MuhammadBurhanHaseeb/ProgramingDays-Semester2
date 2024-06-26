@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="UAMS.BL.DegreeProgram">
+    <Position X="2.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAIAQAAAEACgAAAAACAAQAARAAAAAAAAAAAAKgQAA=</HashCode>
+      <FileName>BL\DegreeProgramBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMS.BL.STUDENT">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAkAAAAAAQAIKaIAABGCOAAAEAABEEACEAEACIII=</HashCode>
+      <FileName>BL\StudentBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMS.BL.SUBJECT">
+    <Position X="5.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQAQAAAAAAAAAAAAAAEAAAGACAABAAAAAAAAAQIAA=</HashCode>
+      <FileName>BL\SubjectBL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.DL.DegreeProgramDL">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAAAAAAAEIAAAAAAAAAAAAAAACAAAAAA=</HashCode>
+      <FileName>DL\DegreeProgramDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.DL.StudentDL">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAQCAAAAAACAAAAABAAgAAAAAAABAEAAIAAAAAAA=</HashCode>
+      <FileName>DL\StudentDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.DL.SubjectDL">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgBQAAQEAAAAAAAAAAgAAAAAEAAAAgAAAAACAAgA=</HashCode>
+      <FileName>DL\SubjectDL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.UI.DegreeProgramUI">
+    <Position X="7" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgBAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>UI\DegreeProgramUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.UI.StudentUI">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAAAAAAAEAAAAAAAAAAAAAAAAAIAAAAAAAAAAAKAAA=</HashCode>
+      <FileName>UI\StudentUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.UI.SubjectUI">
+    <Position X="8.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>UI\SubjectUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UAMSversion.Menu.MenuUI">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Menu\MenuUI.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
