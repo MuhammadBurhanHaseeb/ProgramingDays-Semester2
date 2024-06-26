@@ -1,0 +1,6 @@
+apple,fruit,123,2,1
+alo,fruit,123,3,1
+lo,fruit,111,5,1
+bo,grocery,111,5,1
+apple,fruit,111,6,1
+kela,fruit,111,7,1
