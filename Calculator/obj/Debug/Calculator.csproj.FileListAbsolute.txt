@@ -1,0 +1,10 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week9\Calculator\Calculator\obj\Debug\Calculator.pdb
