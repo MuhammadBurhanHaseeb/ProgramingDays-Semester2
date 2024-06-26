@@ -1,0 +1,14 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\bin\Debug\UAMS.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\bin\Debug\UAMS.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\bin\Debug\UAMS.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\UAMS\UAMS\obj\Debug\UAMS.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\bin\Debug\UAMS.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\bin\Debug\UAMS.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\bin\Debug\UAMS.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\obj\Debug\UAMS.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129\UAMS\UAMS\obj\Debug\UAMS.pdb

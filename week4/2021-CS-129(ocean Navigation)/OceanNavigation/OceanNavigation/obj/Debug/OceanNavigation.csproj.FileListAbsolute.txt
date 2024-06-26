@@ -1,0 +1,14 @@
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\bin\Debug\OceanNavigation.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week4\2021-CS-129(ocean Navigation)\OceanNavigation\OceanNavigation\obj\Debug\OceanNavigation.pdb
