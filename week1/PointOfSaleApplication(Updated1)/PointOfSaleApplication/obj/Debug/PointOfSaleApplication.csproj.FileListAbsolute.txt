@@ -1,0 +1,28 @@
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.AssemblyReference.cache
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.CoreCompileInputs.cache
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe.config
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.pdb
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.exe
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.pdb
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe.config
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.pdb
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.AssemblyReference.cache
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.CoreCompileInputs.cache
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.exe
+G:\OOP 2022\PointOfSaleApplication\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.pdb
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe.config
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.pdb
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.AssemblyReference.cache
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.CoreCompileInputs.cache
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.exe
+D:\Studies\Teaching\OOP\Codes\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.pdb
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe.config
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.exe
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\bin\Debug\PointOfSaleApplication.pdb
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.AssemblyReference.cache
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.csproj.CoreCompileInputs.cache
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.exe
+G:\OOP 2022\PointOfSaleApplication(Updated1)\PointOfSaleApplication\obj\Debug\PointOfSaleApplication.pdb

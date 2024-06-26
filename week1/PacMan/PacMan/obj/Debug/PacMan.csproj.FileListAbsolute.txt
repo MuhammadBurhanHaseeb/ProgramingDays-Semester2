@@ -1,0 +1,17 @@
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.exe.config
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.exe
+G:\OOP 2022\PacMan\PacMan\bin\Debug\PacMan.pdb
+G:\OOP 2022\PacMan\PacMan\bin\Debug\EZInput.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Abstractions.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Container.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\OOP 2022\PacMan\PacMan\bin\Debug\EZInput.xml
+G:\OOP 2022\PacMan\PacMan\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Abstractions.pdb
+G:\OOP 2022\PacMan\PacMan\bin\Debug\Unity.Container.pdb
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.AssemblyReference.cache
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.CoreCompileInputs.cache
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.csproj.CopyComplete
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.exe
+G:\OOP 2022\PacMan\PacMan\obj\Debug\PacMan.pdb

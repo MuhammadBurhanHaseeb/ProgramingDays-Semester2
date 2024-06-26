@@ -1,0 +1,7 @@
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\bin\Debug\UAMS.exe.config
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\bin\Debug\UAMS.exe
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\bin\Debug\UAMS.pdb
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\obj\Debug\UAMS.csproj.AssemblyReference.cache
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\obj\Debug\UAMS.csproj.CoreCompileInputs.cache
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\obj\Debug\UAMS.exe
+E:\bussiness application project\2sCS\week4\UAMS\UAMS\obj\Debug\UAMS.pdb
