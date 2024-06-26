@@ -1,0 +1,9 @@
+C:\Users\FORD\source\repos\Framework\Framework\bin\Debug\Framework.dll
+C:\Users\FORD\source\repos\Framework\Framework\bin\Debug\Framework.pdb
+C:\Users\FORD\source\repos\Framework\Framework\obj\Debug\Framework.csproj.AssemblyReference.cache
+C:\Users\FORD\source\repos\Framework\Framework\obj\Debug\Framework.csproj.CoreCompileInputs.cache
+C:\Users\FORD\source\repos\Framework\Framework\obj\Debug\Framework.dll
+C:\Users\FORD\source\repos\Framework\Framework\obj\Debug\Framework.pdb
+C:\Users\FORD\source\repos\Framework\Framework\bin\Debug\EZInput.dll
+C:\Users\FORD\source\repos\Framework\Framework\bin\Debug\EZInput.xml
+C:\Users\FORD\source\repos\Framework\Framework\obj\Debug\Framework.csproj.CopyComplete

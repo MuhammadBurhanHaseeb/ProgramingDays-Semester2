@@ -1,0 +1,30 @@
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\consumer.exe.config
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\consumer.exe
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\consumer.pdb
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\Framework.dll
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\Framework.pdb
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.csproj.AssemblyReference.cache
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.Form1.resources
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.Properties.Resources.resources
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.csproj.GenerateResource.cache
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.csproj.CoreCompileInputs.cache
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.csproj.CopyComplete
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.exe
+C:\Users\FORD\source\repos\Framework\consumer\obj\Debug\consumer.pdb
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\EZInput.dll
+C:\Users\FORD\source\repos\Framework\consumer\bin\Debug\EZInput.xml
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\consumer.exe.config
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\consumer.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\consumer.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\Framework.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\EZInput.dll
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\Framework.pdb
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\bin\Debug\EZInput.xml
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.csproj.AssemblyReference.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.Form1.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.Properties.Resources.resources
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.csproj.GenerateResource.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.csproj.CoreCompileInputs.cache
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.csproj.CopyComplete
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.exe
+C:\Users\MUHAMMAD BURHAN\OneDrive\Desktop\tasks2\pd\week12\2021-CS-129\Framework\consumer\obj\Debug\consumer.pdb
